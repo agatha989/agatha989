@@ -18,7 +18,7 @@ ___
 ---
 
 ### 🤓 _Skills & Machines_
-[![Skill](https://skillicons.dev/icons?i=python,java,vscode,github)](https://skillicons.dev)
+[![Skill](https://skillicons.dev/icons?i=python,java,html,css,js,vscode,github)](https://skillicons.dev)
 
 ___
 
